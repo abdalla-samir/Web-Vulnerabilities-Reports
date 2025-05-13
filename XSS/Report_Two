@@ -1,9 +1,9 @@
 ## Stored XSS into anchor href attribute
 
-## 🧠 Summary:
+## Summary:
 This lab demonstrates a stored XSS vulnerability where the payload is stored inside the href attribute, and when the victim clicks the link, it executes the JavaScript code.
 
-## 🧪 Steps to Reproduce:
+## Steps to Reproduce:
 
 1. **Initial Test (Context Analysis)**:
    - Go to any post, enter the following test inputs:  
@@ -32,17 +32,17 @@ This lab demonstrates a stored XSS vulnerability where the payload is stored ins
 5. **Result**:
    - The JavaScript code is successfully interpreted and executed in the `href` attribute of the anchor tag, displaying an alert box when the link is clicked.
 
-## ⚠️ Explanation:
+## Explanation:
 - There is a misconfiguration in the website input field that does not sanitize the input properly.
 - When the input is written in the website input field, it gets reflected in the `href` attribute of an anchor tag without proper encoding or validation.
 - When the victim clicks the link, the browser executes the JavaScript code provided in the `javascript:alert()` payload.
 
-## ✅ Recommendation:
+## Recommendation:
 - Input fields should be carefully sanitized to accept only properly formatted links (e.g., ensure URLs begin with `http://`, `https://`, etc.).
 - Implement a **Content Security Policy (CSP)** to mitigate XSS risks by restricting the execution of untrusted scripts.
 - Use input validation libraries, such as **OWASP ESAPI**, to sanitize user input properly and block malicious code.
 
-## 📸 Screenshot:
+## Screenshot:
 ![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_one.png)
 ![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_two.png)
 ![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_three.png)
