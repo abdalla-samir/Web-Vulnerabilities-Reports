@@ -43,9 +43,9 @@ This lab demonstrates a stored XSS vulnerability where the payload is stored ins
 - Use input validation libraries, such as **OWASP ESAPI**, to sanitize user input properly and block malicious code.
 
 ## 📸 Screenshot:
-![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/Report_Two_images/report_two_image_one.png)
-![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/Report_Two_images/report_two_image_two.png)
-![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/Report_Two_images/report_two_image_three.png)
-![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/Report_Two_images/report_two_image_four.png)
-![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/Report_Two_images/report_two_image_five.png)
-![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/Report_Two_images/report_two_image_six.png)
+![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_one.png)
+![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_two.png)
+![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_three.png)
+![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_four.png)
+![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_five.png)
+![Alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_two_images/report_two_image_six.png)
