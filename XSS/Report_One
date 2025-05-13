@@ -1,9 +1,9 @@
 # Reflected XSS into a JavaScript string (HTML encoded angle brackets)
 
-## 🧠 Summary:
+## Summary:
 This lab demonstrates a reflected XSS vulnerability where the payload is reflected inside a JavaScript string, and angle brackets are HTML encoded.
 
-## 🧪 Steps to Reproduce:
+## Steps to Reproduce:
 1. **Initial Test (Context Analysis)**:
    - In the search bar, enter the following test input:  
      ```
@@ -32,19 +32,19 @@ This lab demonstrates a reflected XSS vulnerability where the payload is reflect
    - The JavaScript code is successfully interpreted and executed, displaying an alert box.
 
 
-## ⚠️ Explanation:
+## Explanation:
 - The input is placed inside the html tag and JavaScript variable string.
 - Angle brackets `<` and `>` are encoded, but quotes and other characters are not.
 - Proper encoding is missing for the JS context, allowing code injection.
 - writing the following code will excute directly in the javascript code: '; alert() //
 
 
-## ✅ Recommendation:
+## Recommendation:
 - Escape user input appropriately based on context (JavaScript in this case).
 - Prefer using frameworks that automatically handle context-aware encoding.
 
 
-## 📸 Screenshot:
+## Screenshot:
 ![Alt text](XSS/reports_images/report_one_image_one.png)
 ![Alt text](XSS/reports_images/report_one_image_two.png)
 ![Alt text](XSS/reports_images/report_one_image_three.png)
