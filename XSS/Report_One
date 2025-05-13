@@ -45,7 +45,7 @@ This lab demonstrates a reflected XSS vulnerability where the payload is reflect
 
 
 ## Screenshot:
-![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_image_one.png)
-![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_image_two.png)
-![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_image_three.png)
-![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_image_four.png)
+![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_images/report_one_image_one.png)
+![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_images/report_one_image_two.png)
+![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_images/report_one_image_three.png)
+![alt text](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/reports_images/report_one_images/report_one_image_four.png)
