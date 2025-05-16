@@ -24,7 +24,7 @@ This lab has a stock check feature which fetches data from an internal system, s
 - Sanitize all user-controlled inputs that is used in server-side requests
 - Implement allow-lists to restrict the domains, and just trust the in-list domains.
 
-## Screenshot:
+## Screenshots:
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/SSRF/report_one/report_images/image_one.png)
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/SSRF/report_one/report_images/image_two.png)
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/SSRF/report_one/report_images/image_three.png)
