@@ -1,5 +1,8 @@
 # Basic SSRF against another back-end system
 
+## Lab URL:
+https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system
+
 ## Summary:
 This lab has a stock check feature which fetches data from an internal system, so we can exploit this to gain access to internal server through the external one.
 
