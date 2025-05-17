@@ -18,7 +18,7 @@ This lab contains a reflected cross-site scripting vulnerability in the search q
 - So the final payload is: `</script><svg onload=alert(1)>`.
 - This successfully closes the `<script>` tag and trigger the XSS by injecting a new tag into HTML code.
 
-## Recommendation:
+## Recommendations:
 - Sanitize and encode user inputs before reflecting it into the page.
 - Avoid reflecting user input into the javascript code directly without strict validation.
 
