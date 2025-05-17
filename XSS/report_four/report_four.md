@@ -13,7 +13,7 @@ This lab contains a reflected cross-site scripting vulnerability in the search q
 ## Explanation:
 - First, we perform an initial test to see where the user input is reflected. For examble enter the following payload: `<\'test\'>`.
 - When we view the page source we find that the input is reflected in both `<h1>` tag and inside the javascript code.
-- We notice that in `<h1>` tag, angle brackets are encoded. but not in the javascript code, they are not.
+- We notice that in `<h1>` tag, angle brackets are encoded. but in the javascript code, they are not.
 - This allow us to inject `</script>` to break the current `<script>` tag and insert a new HTML tag
 - So the final payload is: `</script><svg onload=alert(1)>`.
 - This successfully closes the `<script>` tag and trigger the XSS by injecting a new tag into HTML code.
