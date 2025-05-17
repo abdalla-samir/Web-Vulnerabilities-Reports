@@ -22,7 +22,7 @@ This lab contains a reflected cross-site scripting vulnerability in the search q
 - Sanitize and encode user inputs before reflecting it into the page.
 - Avoid reflecting user input into the javascript code directly without strict validation.
 
-## Screenshot:
+## Screenshots:
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_one.png)
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_two.png)
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_three.png)
