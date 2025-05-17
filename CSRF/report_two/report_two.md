@@ -1,6 +1,6 @@
 # CSRF where Referer validation depends on header being present.
 
-##Lab URL:
+## Lab URL:
 https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-depends-on-header-being-present
 
 ## Summary:
