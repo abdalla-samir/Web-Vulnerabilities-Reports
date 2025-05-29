@@ -5,4 +5,4 @@ Hi! I'm Abdalla, and this repository contains my personal reports on web vulnera
 
 
 
-Currently busy with exams — will be back on June 3rd!
+Currently busy with exams — will be back on June 4th!
