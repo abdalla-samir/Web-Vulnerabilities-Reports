@@ -22,7 +22,6 @@ This lab contains a stored cross-site scripting vulnerability in the comment fun
 - This allow us to inject the following payload: `javascript:alert(document.cookie)`.
 - Once the link is clicked, the payload executes.
 
-- When the link is clicked the payload will excute
 ## Recommendation:
 - Prevent dangerous URL schemes such as `javascript:` and only allow schemes like `http`, `https`.
 
