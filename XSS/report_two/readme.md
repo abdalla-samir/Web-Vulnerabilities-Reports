@@ -16,7 +16,7 @@ This lab contains a stored cross-site scripting vulnerability in the comment fun
 ## Explanation:
 - First, identify all possible entry points that might be vulnerable to `Stored XSS`  
 - Go to any post, and in the comment section, perform an initial test by writing generic values in all input fields.
-- In `View Page Source`, observe the reflection points, which are inside the <p> and <a> tags, specifically in the href attribute. 
+- In `View Page Source`, observe the reflection points, which are inside the `<p>` and `<a>` tags, specifically in the `href` attribute. 
 - You will notice that characters such as `'`, `"`, `<`, and `>` are encoded in both `<p>` and `<a>` so injecting payloads in those tags will not affect.
 - However, the `href` attribute does not require a protocol like `http` or `https`, and therefore accepts a `javascript:` scheme.
 - This allow us to inject the following payload: `javascript:alert(document.cookie)`.
