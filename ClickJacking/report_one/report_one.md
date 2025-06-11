@@ -64,7 +64,7 @@ This lab contains an XSS vulnerability that is triggered by a click. Construct a
 
 - By inspecting the feedback page source, you will notice that user input from the `name` parameter is inserted using `innerHTML`.
 
-- This allows XSS via payloads like <img src=x onerror=alert()>.
+- This allows XSS via payloads like `<img src=x onerror=alert()>`.
 
 - Clickjacking is used as a carrier for another attack such as a `DOM XSS` attack, so we can use `Clickjacking` to perform `DOM-based XSS` attack
 
