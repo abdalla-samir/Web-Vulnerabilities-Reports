@@ -93,4 +93,3 @@ This lab contains an XSS vulnerability that is triggered by a click. Construct a
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/ClickJacking/report_one/report_images/image_ten.png)
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/ClickJacking/report_one/report_images/image_eleven.png)
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/ClickJacking/report_one/report_images/image_twelve.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/ClickJacking/report_one/report_images/image_thirteen.png)
