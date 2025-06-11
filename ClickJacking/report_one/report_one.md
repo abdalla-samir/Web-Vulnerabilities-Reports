@@ -57,7 +57,7 @@ This lab contains an XSS vulnerability that is triggered by a click. Construct a
    ```
 
 2. Send the exploit server link to the victim.
-3. When the victim visits the page and clicks the visible button, the hidden iframe button underneath is clicked instead, triggering the print() function by the `DOM-XSS` payload.
+3. When the victim visits the page and clicks the visible button, the hidden `iframe` button underneath is clicked instead, triggering the print() function by the `DOM-XSS` payload.
 
 ## Explanation:
 - This page is vulnerable to DOM-based XSS attack.
