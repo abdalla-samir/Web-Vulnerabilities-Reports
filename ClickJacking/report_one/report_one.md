@@ -72,7 +72,7 @@ This lab contains an XSS vulnerability that is triggered by a click. Construct a
   	- We craft a decoy webpage with a visible button.
 	- Behind it, we overlay a transparent iframe containing the vulnerable feedback form which is vulnerable to `DOM-based XSS`.
 	- Using URL parameters, we prefill the form fields with malicious data, including an XSS payload in the `Name` field.
-	- The iframe is styled with z-index: 2 and very low opacity to remain hidden.
+	- The iframe is styled with `z-index: 2` and very low `opacity` to remain hidden.
 	- Our visible button is placed in the same position as the hidden Submit feedback button inside the iframe.
 	- When the victim clicks the visible button, they are actually clicking the hidden button, submitting the malicious form and triggering the XSS.
 
