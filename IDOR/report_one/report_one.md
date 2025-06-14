@@ -15,8 +15,8 @@ This lab has a horizontal privilege escalation vulnerability on the user account
 - This vulnerability is a type of `Broken Access Control` which can lead to horizontal/vertical privilege escalation.
 - After signing in, in the `my-account` page, we will notice that there is `id` parameter in the URL.
 - The value of the id parameter represents the username.
-- By changing the value of the id parameter, we can gain access to other users' accounts.
-- In this lab, we were able to access Carlos's data and retrieve his API key.
+- By changing the value of the `id` parameter, we can gain access to other users' accounts.
+- In this lab, we were able to access Carlos's data and retrieve his `API key`.
 
 ## Recommendation
 - Do not rely on user input alone to determine access rights.
