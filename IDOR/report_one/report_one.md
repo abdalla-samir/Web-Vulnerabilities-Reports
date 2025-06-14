@@ -12,7 +12,7 @@ This lab has a horizontal privilege escalation vulnerability on the user account
 3. Copy the `API Key` and submit the value.
 
 ## Explanation
-- This vulnerability is a type of `Broken Access Control` which can gain horizontal/vertical previledge escalation
+- This vulnerability is a type of `Broken Access Control` which can gain horizontal/vertical previledge escalation.
 - After sign in, in the `my-account` pagel, we will notice that there is `id` parameter in the URL.
 - The value of the `id` parameter is the name of the user.
 - So when changing the value of the `id` parameter, we can access to other users.
@@ -20,7 +20,6 @@ This lab has a horizontal privilege escalation vulnerability on the user account
 
 ## Recommendation
 - Do not rely on user input alone to determine access rights.
-
 - Always verify that the logged-in user is authorized to access the resource using session or token-based identifiers.
 
 ## Screenshot
