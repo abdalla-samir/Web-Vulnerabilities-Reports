@@ -14,7 +14,7 @@ This lab is vulnerable to password reset poisoning. The user carlos will careles
 5. In the request, modify the Host: header to use your exploit server's domain.
 6. Click `Send`, then go to the `Access log` in the exploit server.
 7. Search for the victim password reset token.
-8. Write the following URL `https://LAB-ID.web-security-academy.net/forgot-password?temp-forgot-password-token=token_value` in the search bar and now you can change the password of the victim -> `carlos.
+8. Write the following URL `https://LAB-ID.web-security-academy.net/forgot-password?temp-forgot-password-token=token_value` in the search bar and now you can change the password of the victim -> `carlos`.
 
 ## Explanation:
 - This type of vulnerabilities allow the hacker to inject his exploiting website inside the forget password request in the `Host: ` request header.
