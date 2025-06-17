@@ -14,7 +14,7 @@ This lab's two-factor authentication can be bypassed. You have already obtained 
 ## Explanation:
 -  This vulnerability occurs because the server does not properly enforce the second step of the two-factor authentication process.
 - The authentication process goes through two steps
-	- login with username:`password`.
+	- login with `username:password`.
 	- Submitting the 2FA code.
 - After that, the application redirects to the `/my-account?id=username` successfully when the 2FA code is submitted.
 - So due to the bad implementation of the authentication process, the attacker can skip the second process of the authenication by changing the path from `/login2` `/my-account?id=username`.
