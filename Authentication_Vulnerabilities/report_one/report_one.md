@@ -17,7 +17,7 @@ This lab's two-factor authentication can be bypassed. You have already obtained 
 	- login with `username:password`.
 	- Submitting the 2FA code.
 - After that, the application redirects to the `/my-account?id=username` successfully when the 2FA code is submitted.
-- So due to the bad implementation of the authentication process, the attacker can skip the second process of the authenication by changing the path from `/login2` `/my-account?id=username`.
+- So due to the bad implementation of the authentication process, the attacker can skip the second process of the authenication by changing the path from `/login2` to `/my-account?id=username`.
 
 ## Recommendation:
 - Enforce 2FA step: The server must track whether a user has successfully completed the 2FA step before being sent to the next step or not.
