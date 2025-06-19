@@ -1,7 +1,7 @@
 # Limit overrun race conditions
 
 ## Lab URL:
-https://portswigger.net/web-security/race-conditions
+https://portswigger.net/web-security/race-conditions/lab-race-conditions-limit-overrun
 
 ## Summary:
 This lab's purchasing flow contains a race condition that enables you to purchase items for an unintended price. 
