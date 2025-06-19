@@ -1,7 +1,7 @@
 # Limit overrun race conditions
 
 ## Lab URL:
-https://0a78006a03051664803adf490031008d.web-security-academy.net/cart/order-confirmation?order-confirmed=true
+https://portswigger.net/web-security/race-conditions
 
 ## Summary:
 This lab's purchasing flow contains a race condition that enables you to purchase items for an unintended price. 
