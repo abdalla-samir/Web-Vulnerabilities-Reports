@@ -4,7 +4,7 @@
 https://portswigger.net/web-security/graphql/lab-graphql-reading-private-posts
 
 ## Summary
-The blog page for this lab contains a hidden blog post that has a secret password, Due to insufficient access controls on the GraphQL API , password can be fetched without proper authoization.
+The blog page for this lab contains a hidden blog post that has a secret password, Due to insufficient access controls on the `GraphQL API` , password can be fetched without proper authoization.
 
 ## Steps to Reproduce
 1. On the main page, Click on any blog post, then intercept the request using burpsuite.
