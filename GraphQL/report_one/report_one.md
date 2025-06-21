@@ -35,7 +35,7 @@ The blog page for this lab contains a hidden blog post that has a secret passwor
 - Go to [GraphQL Voyager](https://graphql-kit.com/graphql-voyager)
 - Click `CHANGE SCHEME` -> `INTROSPECTION`.
 - Paste the output from the curl command.
-- Click `display`, Then it will show a visual diagrame of the `GraphQL`.
+- Click `DISPLAY`, Then it will show a visual diagrame of the `GraphQL`.
 - By this diagrame we can use graphql syntax to get the data we want.
 
 ## Recommendation
