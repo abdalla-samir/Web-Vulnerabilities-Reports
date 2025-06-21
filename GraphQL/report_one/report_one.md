@@ -26,9 +26,10 @@ The blog page for this lab contains a hidden blog post that has a secret passwor
 ### Discovering the GraphQL Schema
 -to discove the full structure of the `GraphQL`, run the following command in linux.
 	```
-	curl -X POST https://YOUR-LAB-ID.web-security-academy.net/graphql/v1 \
-  	-H "Content-Type: application/json" \
-  	-d '{"query":"query IntrospectionQuery { __schema { queryType { name } mutationType { name } types { 			...FullType }   directives { name description locations args { ...InputValue } } } } fragment FullType on 		__Type { kind name   description fields(includeDeprecated: true) { name description args { ...InputValue } 		type { ...TypeRef }   deprecationReason } inputFields { ...InputValue } interfaces { ...TypeRef } 			enumValues(includeDeprecated: true) {   name description deprecationReason } possibleTypes { ...TypeRef } } 		fragment InputValue on __InputValue { name   description type { ...TypeRef } defaultValue } fragment TypeRef 	on __Type { kind name ofType { kind name ofType {   kind name ofType { kind name } } } }"}'
+	curl -X POST https://target.com/graphql \
+  -H "Content-Type: application/json" \
+  -d '{"query":"query IntrospectionQuery { __schema { queryType { name } mutationType { name } types { ...FullType } directives { name description locations args { ...InputValue } } } } fragment FullType on __Type { kind name description fields(includeDeprecated: true) { name description args { ...InputValue } type { ...TypeRef } deprecationReason } inputFields { ...InputValue } interfaces { ...TypeRef } enumValues(includeDeprecated: true) { name description deprecationReason } possibleTypes { ...TypeRef } } fragment InputValue on __InputValue { name description type { ...TypeRef } defaultValue } fragment TypeRef on __Type { kind name ofType { kind name ofType { kind name ofType { kind name } } } }"}'
+
 	```
 ### Visualizing the schema
 - Go to [GraphQL Voyager](https://graphql-kit.com/graphql-voyager)
