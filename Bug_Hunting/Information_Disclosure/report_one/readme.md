@@ -3,5 +3,5 @@ After reporting this issue through Trip.com's responsible disclosure program, I 
 - **Title:** firebase credentials and vite_google_api_key exposed store in cleartext of analytics.travix.com  
 - **State:** Informative
 - **Duplicate Severity:** Medium-5
-- 
+
 Even though my submission was a duplicate and marked Informative, I am proud to have identified this issue independently as part of my web security learning journey.
