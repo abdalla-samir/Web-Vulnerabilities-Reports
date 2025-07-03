@@ -7,7 +7,7 @@ During testing on `vayama.com` (part of the `trip.com` group), several sensitive
 -**Generic API Secret**
 -**Firebase API Key**
 
-These keys and tokens were discovered hardcoded inside the following file: https://analytics-gce.mx.vayama.com/assets/index-V3ZPnK31.js
+These keys and tokens were discovered hardcoded inside the following file: `https://***-***.vayama.com/***/***-*******.js`
 
 ## Steps To Reproduce
 1.Visit the following URL: `https://***-***.vayama.com/***/***-*******.js`
