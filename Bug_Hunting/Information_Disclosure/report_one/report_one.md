@@ -31,7 +31,7 @@ The exposure of these API keys and tokens introduces multiple risks:
 Overall, this reflects a Security Misconfiguration and Information Disclosure, violating key management best practices.
 
 ## screenshot
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Bug_Hunting/Information_Disclosure/report_One/report_images/image_one.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Bug_Hunting/Information_Disclosure/report_one/report_images/image_one.png)
 
 ## Disclaimer
 This report is shared for educational and portfolio purposes only. No valid secrets or sensitive details are included. The vulnerability was responsibly reported to the Trip.com security team, who confirmed the issue had been previously submitted by another researcher.
