@@ -1,1 +1,6 @@
-This was my first real bug bounty submission, and even though it turned out to be a duplicate, I am still very happy to have found it. It motivates me to keep learning and hunting for new vulnerabilities. Looking forward to more unique reports in the future!
+After reporting this issue through Trip.com's responsible disclosure program, I was informed that this vulnerability had already been submitted by another researcher and marked as a duplicate. The original report, which I was told about for transparency, had the following details:
+
+- **Title:** firebase credentials and vite_google_api_key exposed store in cleartext of analytics.travix.com  
+- **State:** Informative  
+
+Even though my submission was a duplicate and marked Informative, I am proud to have identified this issue independently as part of my web security learning journey.
