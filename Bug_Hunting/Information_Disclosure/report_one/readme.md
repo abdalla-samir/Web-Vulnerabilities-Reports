@@ -1,0 +1,1 @@
+This was my first real bug bounty submission, and even though it turned out to be a duplicate, I am still very happy to have found it. It motivates me to keep learning and hunting for new vulnerabilities. Looking forward to more unique reports in the future!
