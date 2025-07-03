@@ -23,10 +23,10 @@ These keys and tokens were discovered hardcoded inside the following file: `http
 
 ## Impact
 The exposure of these API keys and tokens introduces multiple risks:
--**Google Maps API Key: Allows unauthorized Geocoding API usage, leading to potential billing abuse and information disclosure.
--**Matomo Analytics Token: May allow unauthorized access to analytics data or manipulation of tracking configurations, depending on token permissions.
--**Generic API Secret: May enable unauthorized access to backend APIs or services, depending on configuration.
--**Firebase API Key: If not properly restricted, can be abused to access Firebase project resources.
+- **Google Maps API Key: Allows unauthorized Geocoding API usage, leading to potential billing abuse and information disclosure.
+- **Matomo Analytics Token: May allow unauthorized access to analytics data or manipulation of tracking configurations, depending on token permissions.
+- **Generic API Secret: May enable unauthorized access to backend APIs or services, depending on configuration.
+- **Firebase API Key: If not properly restricted, can be abused to access Firebase project resources.
 
 Overall, this reflects a Security Misconfiguration and Information Disclosure, violating key management best practices.
 
