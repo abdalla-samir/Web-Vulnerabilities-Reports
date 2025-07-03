@@ -2,10 +2,10 @@
 
 ## Summary
 During testing on `vayama.com` (part of the `trip.com` group), several sensitive API keys and tokens were identified being exposed within a publicly accessible JavaScript file. The exposed items include:
--**Google Maps API Key**
--**Matomo Analytics Token**
--**Generic API Secret**
--**Firebase API Key**
+- **Google Maps API Key**
+- **Matomo Analytics Token**
+- **Generic API Secret**
+- **Firebase API Key**
 
 These keys and tokens were discovered hardcoded inside the following file: `https://***-***.vayama.com/***/***-*******.js`
 
