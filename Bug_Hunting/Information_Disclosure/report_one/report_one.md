@@ -10,15 +10,16 @@ During testing on `vayama.com` (part of the `trip.com` group), several sensitive
 These keys and tokens were discovered hardcoded inside the following file: `https://***-***.vayama.com/***/***-*******.js`
 
 ## Steps To Reproduce
-1-Visit the following URL: `https://***-***.vayama.com/***/***-*******.js`
-2-Search for the following keywords individually:
 
--VITE_GOOGLE_MAPS_API_KEY: "REDACTED_API_KEY"
--VITE_MATOMO_TOKEN: "REDACTED_MATOMO_TOKEN"
--VITE_API_KEYS_SECRET: "REDACTED_SECRET
--VITE_FIREBASE_API_KEY: "REDACTED_FIREBASE_KEY"
+1. Visit the following URL (redacted for security):  `https://***-***.vayama.com/***/***-*******.js`  
 
-3-The corresponding API keys and tokens will be visible hardcoded in the file.
+2. Search for the following keywords individually:  
+   - `VITE_GOOGLE_MAPS_API_KEY: "REDACTED_API_KEY"`  
+   - `VITE_MATOMO_TOKEN: "REDACTED_MATOMO_TOKEN"`  
+   - `VITE_API_KEYS_SECRET: "REDACTED_SECRET"`  
+   - `VITE_FIREBASE_API_KEY: "REDACTED_FIREBASE_KEY"`  
+
+3. The corresponding API keys and tokens will be visible hardcoded in the file.
 
 ## Impact
 The exposure of these API keys and tokens introduces multiple risks:
