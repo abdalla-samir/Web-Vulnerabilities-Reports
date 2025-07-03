@@ -12,6 +12,7 @@ These keys and tokens were discovered hardcoded inside the following file: `http
 ## Steps To Reproduce
 1.Visit the following URL: `https://***-***.vayama.com/***/***-*******.js`
 2.Search for the following keywords individually:
+
 -**VITE_GOOGLE_MAPS_API_KEY: "REDACTED_API_KEY"**
 -**VITE_MATOMO_TOKEN: "REDACTED_MATOMO_TOKEN"**
 -**VITE_API_KEYS_SECRET: "REDACTED_SECRET"**
