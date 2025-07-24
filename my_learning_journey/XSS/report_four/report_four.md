@@ -23,10 +23,10 @@ This lab contains a reflected cross-site scripting vulnerability in the search q
 - Avoid reflecting user input into the javascript code directly without strict validation.
 
 ## Screenshots:
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_one.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_two.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_three.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_four.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_five.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_four/report_images/image_six.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_four/report_images/image_one.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_four/report_images/image_two.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_four/report_images/image_three.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_four/report_images/image_four.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_four/report_images/image_five.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_four/report_images/image_six.png)
 
