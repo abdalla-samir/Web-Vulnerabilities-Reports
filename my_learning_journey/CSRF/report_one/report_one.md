@@ -29,6 +29,6 @@ This lab's email change functionality is vulnerable to CSRF.
 - Apply csrf token which prevent these types of attacks
 
 ## Screenshot:
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/CSRF/report_one/report_images/image_one.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/CSRF/report_one/report_images/image_two.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/CSRF/report_one/report_images/image_three.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/CSRF/report_one/report_images/image_one.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/CSRF/report_one/report_images/image_two.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/CSRF/report_one/report_images/image_three.png)
