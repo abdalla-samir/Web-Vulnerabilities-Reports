@@ -20,7 +20,7 @@
 - User inputs should be sanitized before inserting the inputs into the DOM, this will prevent the injection of malicious payloads.
 
 ## Screenshot:
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_three/report_three_images/report_three_image_one.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_three/report_three_images/report_three_image_two.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_three/report_three_images/report_three_image_three.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/XSS/report_three/report_three_images/report_three_image_four.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_three/report_three_images/report_three_image_one.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_three/report_three_images/report_three_image_two.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_three/report_three_images/report_three_image_three.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/XSS/report_three/report_three_images/report_three_image_four.png)
