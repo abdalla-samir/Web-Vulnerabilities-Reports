@@ -31,7 +31,7 @@ This lab contains a blind OS command injection vulnerability in the feedback fun
 - Validating that the input should be alphanumeric, no other syntax.
 
 ## Screenshot:
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/OS_Command_Injection/report_one/report_images/image_one.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/OS_Command_Injection/report_one/report_images/image_two.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/OS_Command_Injection/report_one/report_images/image_three.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/OS_Command_Injection/report_one/report_images/image_one.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/OS_Command_Injection/report_one/report_images/image_two.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/OS_Command_Injection/report_one/report_images/image_three.png)
 
