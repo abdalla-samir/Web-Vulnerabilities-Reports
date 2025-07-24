@@ -24,14 +24,14 @@ This lab's two-factor authentication can be bypassed. You have already obtained 
 
 ## Screenshot:
 ![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_one.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_two.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_three.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_four.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_five.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_six.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_seven.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_eight.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/Authentication_Vulnerabilities/report_one/report_images/image_nine.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_two.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_three.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_four.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_five.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_six.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_seven.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_eight.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/Authentication_Vulnerabilities/report_one/report_images/image_nine.png)
 
 
 
