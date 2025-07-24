@@ -43,10 +43,10 @@ The blog page for this lab contains a hidden blog post that has a secret passwor
 - Avoid returning fields like `password`, `securityKey` and so on.
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/GraphQL/report_one/report_images/image_one.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/GraphQL/report_one/report_images/image_two.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/GraphQL/report_one/report_images/image_three.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/GraphQL/report_one/report_images/image_four.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/GraphQL/report_one/report_images/image_five.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/GraphQL/report_one/report_images/image_six.png)
-![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/GraphQL/report_one/report_images/image_seven.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/GraphQL/report_one/report_images/image_one.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/GraphQL/report_one/report_images/image_two.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/GraphQL/report_one/report_images/image_three.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/GraphQL/report_one/report_images/image_four.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/GraphQL/report_one/report_images/image_five.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/GraphQL/report_one/report_images/image_six.png)
+![screenshot](https://raw.githubusercontent.com/abdalla-samir/Web-Vulnerabilities-Reports/main/my_learning_journey/GraphQL/report_one/report_images/image_seven.png)
